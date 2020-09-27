@@ -7,3 +7,5 @@ Required libraries:
 - random
 - tkinter
 - PIL
+
+Also requires two folders with images, one for tops and one for bottoms
